@@ -15,10 +15,9 @@
 <itunes:email>singularfm@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https://raw.githubusercontent.com/singularfm/singularfm.github.io/build/source/images/icon-1400.png"/>
-<itunes:category text="Sports &amp; Recreation">
-<itunes:category text="Outdoor"/>
-</itunes:category>
-<itunes:explicit>no</itunes:explicit>
+<itunes:category text="Technology"/>
+<itunes:category text="Software How-To"/>
+<itunes:category text="Gadgets"/>
 <item>
 <itunes:episodeType>trailer</itunes:episodeType>
 <itunes:title>第一期：和浪Live直播技术负责人李晨光的闲话杂谈</itunes:title>
