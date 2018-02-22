@@ -19,7 +19,7 @@ menu:
   # Facebook: https://www.facebook.com
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-114598289-1
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
