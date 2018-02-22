@@ -457,6 +457,9 @@ body {
 .content {
   flex: 1;
 }
+.content audio {
+  width: 100%;
+}
 .content p {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
