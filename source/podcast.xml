@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>SinguarFM</title>
+<title>SingularFM</title>
 <link>http://singular.fm</link>
 <language>zh-cn</language>
 <copyright>&#8471; &amp; &#xA9; 2017 Singular.FM Appleseed</copyright>
@@ -26,7 +26,7 @@
 <itunes:author>梯田</itunes:author>
 <itunes:summary>这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也聊了聊上海这个城市是不是真的如人们所说的那样不适合互联网创业。</itunes:summary>
 <description>这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也聊了聊上海这个城市是不是真的如人们所说的那样不适合互联网创业。</description>
-<content:encoded><![CDATA[The Sunset Explorers share tips, techniques and recommendations for great hikes and adventures around the United States. Listen on <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.</content:encoded>
+<content:encoded><![CDATA[这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也各自聊了聊对于上海这个城市适不适合互联网创业这个话题的看法。]]>.</content:encoded>
 <enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/NO.1%20Chat%20with%20tech%20lead%20of%20LangLive.mp3"/>
 <guid>http://p4clix3rq.bkt.clouddn.com/NO.1%20Chat%20with%20tech%20lead%20of%20LangLive.mp3</guid>
 <pubDate>Sun, 18 Feb 2018 09:00:00 +800</pubDate>
