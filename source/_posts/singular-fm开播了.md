@@ -1,6 +1,6 @@
 ---
 title: singular.fm 开播了
-date: 2018-02-22 15:03:05
+date: 2018-02-21 22:58:37
 tags: podcast
 cover_image: images/icon-1400.png
 ---
