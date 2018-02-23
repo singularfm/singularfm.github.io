@@ -13,7 +13,6 @@ cover_image: images/icon-1400.png
 
 我们欢迎各种形式的反馈:
 
-* [twitter]()
-* [weibo]()
+* [weibo](https://weibo.com/singularfm?is_all=1)
 * singularfm@gmail.com
 
