@@ -8,7 +8,7 @@ tags: 直播 上海互联网
 
 Host:
 [@谢梯田](https://weibo.com/titantse "微博")
-[@metrue](https://weibo.com/titantse "微博")
+[@Minghe](https://weibo.com/2165714507/profile?topnav=1&wvr=6&is_all=1)
 Guest:
 李晨光
 
