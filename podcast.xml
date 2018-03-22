@@ -1,49 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<channel>
-<title>SingularFM</title>
-<link>http://singular.fm</link>
-<language>zh-cn</language>
-<copyright>&#8471; &amp; &#xA9; 2017 Singular.FM Appleseed</copyright>
-<itunes:subtitle>A chinese tech podcast about programming, software engineering, entrepreneurship, etc.</itunes:subtitle>
-<itunes:author>Singular.FM</itunes:author>
-<itunes:summary>SingularFM是一档面向程序员的音频节目，每期会邀请一些嘉宾和大家聊聊软件工程，编程技巧，创业等话题。</itunes:summary>
-<description>SingularFM是一档面向程序员的音频节目，每期会邀请一些嘉宾和大家聊聊软件工程，编程技巧，创业等话题。</description>
-<itunes:type>serial</itunes:type>
-<itunes:owner>
-<itunes:name>Singular.FM</itunes:name>
-<itunes:email>singularfm@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:image href="https://raw.githubusercontent.com/singularfm/singularfm.github.io/build/source/images/icon-1400.png"/>
-<itunes:category text="Technology"/>
-<itunes:category text="Software How-To"/>
-<itunes:category text="Gadgets"/>
-<itunes:explicit>no</itunes:explicit>
-<item>
-<itunes:episodeType>trailer</itunes:episodeType>
-<itunes:title>第一期：和浪Live直播技术负责人李晨光的闲话杂谈</itunes:title>
-<title>第一期：和浪Live直播技术负责人李晨光的闲话杂谈</title>
-<itunes:author>梯田</itunes:author>
-<itunes:summary>这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也聊了聊上海这个城市是不是真的如人们所说的那样不适合互联网创业。</itunes:summary>
-<description>这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也聊了聊上海这个城市是不是真的如人们所说的那样不适合互联网创业。</description>
-<content:encoded><![CDATA[这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也各自聊了聊对于上海这个城市适不适合互联网创业这个话题的看法。]]>.</content:encoded>
-<enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/NO.1%20Chat%20with%20tech%20lead%20of%20LangLive.mp3"/>
-<guid>http://p4clix3rq.bkt.clouddn.com/NO.1%20Chat%20with%20tech%20lead%20of%20LangLive.mp3</guid>
-<pubDate>Sun, 18 Feb 2018 09:00:00 +0800</pubDate>
-<itunes:duration>48:41</itunes:duration>
-<itunes:explicit>no</itunes:explicit>
-<itunes:keywords>直播,音视频,互联网,游戏,上海</itunes:keywords>
-<authors>
-<author>
-<name>梯田</name>
-</author>
-<author>
-<name>黄明和</name>
-</author>
-<author>
-<name>李晨光</name>
-</author>
-</authors>
-</item>
-</channel>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SingularFM</title>
+        <link>http://singular.fm</link>
+        <language>zh-cn</language>
+        <copyright>&#8471; &amp; &#xA9; 2017 Singular.FM Appleseed</copyright>
+        <itunes:subtitle>A chinese tech podcast about programming, software engineering, entrepreneurship, etc.</itunes:subtitle>
+        <itunes:author>Singular.FM</itunes:author>
+        <itunes:summary>SingularFM是一档面向程序员的音频节目，每期会邀请一些嘉宾和大家聊聊软件工程，编程技巧，创业等话题。</itunes:summary>
+        <description>SingularFM是一档面向程序员的音频节目，每期会邀请一些嘉宾和大家聊聊软件工程，编程技巧，创业等话题。</description>
+        <itunes:type>serial</itunes:type>
+        <itunes:owner>
+            <itunes:name>Singular.FM</itunes:name>
+            <itunes:email>singularfm@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://raw.githubusercontent.com/singularfm/singularfm.github.io/build/source/images/icon-1400.png"/>
+        <itunes:category text="Technology"/>
+        <itunes:category text="Software How-To"/>
+        <itunes:category text="Gadgets"/>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:title>第一期：和浪Live直播技术负责人李晨光的闲话杂谈</itunes:title>
+            <title>第一期：和浪Live直播技术负责人李晨光的闲话杂谈</title>
+            <itunes:author>梯田</itunes:author>
+            <itunes:summary>这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也聊了聊上海这个城市是不是真的如人们所说的那样不适合互联网创业。</itunes:summary>
+            <description>这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也聊了聊上海这个城市是不是真的如人们所说的那样不适合互联网创业。</description>
+            <content:encoded>
+                <![CDATA[这一期我们邀请到了台湾第一大直播平台浪Live的技术负责人李晨光分享他个人的成长历程以及对直播技术以及行业的思考，大家也各自聊了聊对于上海这个城市适不适合互联网创业这个话题的看法。]]>.
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/NO.1%20Chat%20with%20tech%20lead%20of%20LangLive.mp3"/>
+            <guid>http://p4clix3rq.bkt.clouddn.com/NO.1%20Chat%20with%20tech%20lead%20of%20LangLive.mp3</guid>
+            <pubDate>Sun, 18 Feb 2018 09:00:00 +0800</pubDate>
+            <itunes:duration>48:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>直播,音视频,互联网,游戏,上海</itunes:keywords>
+            <authors>
+                <author>
+                    <name>梯田</name>
+                </author>
+                <author>
+                    <name>黄明和</name>
+                </author>
+                <author>
+                    <name>李晨光</name>
+                </author>
+            </authors>
+        </item>
+        <item>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历(一)</itunes:title>
+            <title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历</title>
+            <itunes:author>梯田</itunes:author>
+            <itunes:summary> 本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。</itunes:summary>
+            <description>
+本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。
+            </description>
+            <content:encoded>
+              <![CDATA[本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。]]>.
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/singularFM2-1-%E5%98%89%E5%AE%BE%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3"/>
+            <guid>http://p4clix3rq.bkt.clouddn.com/singularFM2-1-%E5%98%89%E5%AE%BE%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3</guid>
+            <pubDate>Wed, 21 Mar 2018 09:00:00 +0800</pubDate>
+            <itunes:duration>10:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>海外工作, Google, eBay, 硅谷</itunes:keywords>
+            <authors>
+                <author>
+                    <name>梯田</name>
+                </author>
+                <author>
+                    <name>黄明和</name>
+                </author>
+                <author>
+                    <name>苏涛</name>
+                </author>
+            </authors>
+        </item>
+        <item>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历(二)</itunes:title>
+            <title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历</title>
+            <itunes:author>梯田</itunes:author>
+            <itunes:summary> 本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。</itunes:summary>
+            <description>
+本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。
+            </description>
+            <content:encoded>
+              <![CDATA[本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。]]>.
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/singularFM2-2-%E7%AD%BE%E8%AF%81%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3"/>
+            <guid>http://p4clix3rq.bkt.clouddn.com/singularFM2-2-%E7%AD%BE%E8%AF%81%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3</guid>
+            <pubDate>Wed, 21 Mar 2018 09:00:00 +0800</pubDate>
+            <itunes:duration>10:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>海外工作, Google, eBay, 硅谷</itunes:keywords>
+            <authors>
+                <author>
+                    <name>梯田</name>
+                </author>
+                <author>
+                    <name>黄明和</name>
+                </author>
+                <author>
+                    <name>苏涛</name>
+                </author>
+            </authors>
+        </item>
+        <item>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历(三)</itunes:title>
+            <title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历</title>
+            <itunes:author>梯田</itunes:author>
+            <itunes:summary> 本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。</itunes:summary>
+            <description>
+本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。
+            </description>
+            <content:encoded>
+              <![CDATA[本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。]]>.
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/singularFM2-3-%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3"/>
+            <guid>http://p4clix3rq.bkt.clouddn.com/singularFM2-3-%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3</guid>
+            <pubDate>Wed, 21 Mar 2018 09:00:00 +0800</pubDate>
+            <itunes:duration>10:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>海外工作, Google, eBay, 硅谷</itunes:keywords>
+            <authors>
+                <author>
+                    <name>梯田</name>
+                </author>
+                <author>
+                    <name>黄明和</name>
+                </author>
+                <author>
+                    <name>苏涛</name>
+                </author>
+            </authors>
+        </item>
+        <item>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历(四)</itunes:title>
+            <title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历</title>
+            <itunes:author>梯田</itunes:author>
+            <itunes:summary> 本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。</itunes:summary>
+            <description>
+本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。
+            </description>
+            <content:encoded>
+              <![CDATA[本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。]]>.
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/singularFM2-4-%E8%81%8C%E5%9C%BA%E6%96%87%E5%8C%96%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3"/>
+            <guid>http://p4clix3rq.bkt.clouddn.com/singularFM2-4-%E8%81%8C%E5%9C%BA%E6%96%87%E5%8C%96%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3</guid>
+            <pubDate>Wed, 21 Mar 2018 09:00:00 +0800</pubDate>
+            <itunes:duration>10:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>海外工作, Google, eBay, 硅谷</itunes:keywords>
+            <authors>
+                <author>
+                    <name>梯田</name>
+                </author>
+                <author>
+                    <name>黄明和</name>
+                </author>
+                <author>
+                    <name>苏涛</name>
+                </author>
+            </authors>
+        </item>
+        <item>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历(五)</itunes:title>
+            <title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历</title>
+            <itunes:author>梯田</itunes:author>
+            <itunes:summary> 本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。</itunes:summary>
+            <description>
+本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。
+            </description>
+            <content:encoded>
+              <![CDATA[本期我们要求到现在硅谷 eBay 的周彦君, 曾经在 Google Ireland 任职的陈敏焕，以及曾经在日本 KAYAC 工作的王心远来和大家一起聊聊工程师如何申请海外的工作机会，国外的公司工作环境和团队氛围，以及海外的生活。还有签证等相关事宜的攻略。]]>.
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://p4clix3rq.bkt.clouddn.com/singularFM2-5-%E5%A6%82%E4%BD%95%E5%87%BA%E5%9B%BD%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3"/>
+            <guid>http://p4clix3rq.bkt.clouddn.com/singularFM2-5-%E5%A6%82%E4%BD%95%E5%87%BA%E5%9B%BD%EF%BC%88%E6%97%A0%E8%BD%AC%E5%9C%BA%EF%BC%89.mp3</guid>
+            <pubDate>Wed, 21 Mar 2018 09:00:00 +0800</pubDate>
+            <itunes:duration>10:41</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>海外工作, Google, eBay, 硅谷</itunes:keywords>
+            <authors>
+                <author>
+                    <name>梯田</name>
+                </author>
+                <author>
+                    <name>黄明和</name>
+                </author>
+                <author>
+                    <name>苏涛</name>
+                </author>
+            </authors>
+        </item>
+    </channel>
 </rss>
