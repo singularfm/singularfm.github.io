@@ -8,3 +8,6 @@ date: 2018-02-22 11:34:45
 * [iTunes Podcasts - SingularFM](https://itunes.apple.com/fm/podcast/singularfm/id1351627457?mt=2%20#iTunes)
 * [喜马拉雅 - SingularFM](http://www.ximalaya.com/4051526/album/13296530/)
 * [网易云音乐 - SingularFM](http://music.163.com/#/radio/526683830?userid=1379626121)
+
+也欢迎大家关注我们的微信公众号: SingularFM
+![wechat-qrcode](https://raw.githubusercontent.com/singularfm/singularfm.github.io/master/images/wechat-qrcode.jpg)
