@@ -22,7 +22,7 @@
         <itunes:category text="Gadgets"/>
         <itunes:explicit>no</itunes:explicit>
         <item>
-            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>第一期：和浪Live直播技术负责人李晨光的闲话杂谈</itunes:title>
             <title>第一期：和浪Live直播技术负责人李晨光的闲话杂谈</title>
             <itunes:author>梯田</itunes:author>
@@ -50,7 +50,7 @@
             </authors>
         </item>
         <item>
-            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>第二期： 程序员的海外工作经历1-嘉宾介绍</itunes:title>
             <title>第二期： 程序员的海外工作经历1-嘉宾介绍</title>
             <itunes:author>梯田</itunes:author>
@@ -80,9 +80,9 @@
             </authors>
         </item>
         <item>
-            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>第二期： 程序员的海外工作经历2-签证问题</itunes:title>
-            <title>第二期： 和eBay, Google, KAYAC 的工程师们聊聊海外工作经历</title>
+            <title>第二期： 程序员的海外工作经历2-签证问题</title>
             <itunes:author>梯田</itunes:author>
             <itunes:summary> 本期我们邀请到了三位嘉宾，他们分别在eBay, Google, KAYAC 工作过，且工作地点分别为硅谷，欧洲和日本，让我们来听他们聊一聊他们关于海外工作机会，国外的工作环境和氛围，生活体验以及签证等事宜。</itunes:summary>
             <description>
@@ -110,9 +110,9 @@
             </authors>
         </item>
         <item>
-            <itunes:episodeType>trailer</itunes:episodeType>
-            <itunes:title>第二期： 程序员的海外工作经历2-关于面试</itunes:title>
-            <title>第二期： 程序员的海外工作经历2-关于面试</title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>第二期： 程序员的海外工作经历3-关于面试</itunes:title>
+            <title>第二期： 程序员的海外工作经历3-关于面试</title>
             <itunes:author>梯田</itunes:author>
             <itunes:summary> 本期我们邀请到了三位嘉宾，他们分别在eBay, Google, KAYAC 工作过，且工作地点分别为硅谷，欧洲和日本，让我们来听他们聊一聊他们关于海外工作机会，国外的工作环境和氛围，生活体验以及签证等事宜。</itunes:summary>
             <description>
@@ -140,7 +140,7 @@
             </authors>
         </item>
         <item>
-            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>第二期： 程序员的海外工作经历4-职场文化</itunes:title>
             <title>第二期： 程序员的海外工作经历4-职场文化</title>
             <itunes:author>梯田</itunes:author>
@@ -170,7 +170,7 @@
             </authors>
         </item>
         <item>
-            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>第二期： 程序员的海外工作经历5-如何出国</itunes:title>
             <title>第二期： 程序员的海外工作经历5-如何出国</title>
             <itunes:author>梯田</itunes:author>
